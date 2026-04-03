@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "welcome jai"
-dh -f
+df -h
 echo "this is ur disk" > jai.txt
 cat jai.txt
